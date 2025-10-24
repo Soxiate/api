@@ -43,6 +43,9 @@ lerna-debug.log*
 .temp
 .tmp
 
+#prisma
+prisma/migrations/migration_lock.toml
+
 # Runtime data
 pids
 *.pid
